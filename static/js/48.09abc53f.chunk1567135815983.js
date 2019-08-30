@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[48],{1204:function(_,n,w){"use strict";w.r(n),n.default={_RIGHTS_PROFILE_:"\u6743\u9650\u914d\u7f6e",_ACCOUNT_:"\u7528\u6237",_ROLE_:"\u89d2\u8272"}}}]);
